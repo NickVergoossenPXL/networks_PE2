@@ -1,3 +1,11 @@
 <native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native">
+
   <hostname>TEST</hostname>
+
+  <banner>
+    <motd>
+      <banner>NETCONF TEST</banner>
+    </motd>
+  </banner>
+
 </native>
