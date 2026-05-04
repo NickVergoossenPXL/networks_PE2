@@ -3,8 +3,10 @@
     <target>
       <running/>
     </target>
+    <config>
       <native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native">
         <hostname>TEST</hostname>
       </native>
+    </config>
   </edit-config>
 </rpc>
