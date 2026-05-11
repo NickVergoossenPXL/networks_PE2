@@ -1,5 +1,7 @@
-<native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native"
-        xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0"
-        nc:operation="merge">
-  <hostname>TEST</hostname>
-</native>
+<interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+  <interface>
+    <name>GigabitEthernet1</name>
+    <description>NETCONF WORKING</description>
+    <enabled>true</enabled>
+  </interface>
+</interfaces>
