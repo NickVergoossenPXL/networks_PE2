@@ -1,6 +1,6 @@
 <interfaces xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
   <interface>
-    <name>GigabitEthernet1</name>
+    <name>0/0/1</name>
     <description>DEPLOYED VIA NETCONF</description>
     <enabled>true</enabled>
   </interface>
