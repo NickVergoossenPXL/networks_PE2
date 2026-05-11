@@ -1,13 +1,5 @@
 <native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native"
         xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0"
         nc:operation="merge">
-
   <hostname>TEST</hostname>
-
-  <banner>
-    <motd>
-      <banner>NETCONF TEST</banner>
-    </motd>
-  </banner>
-
 </native>
