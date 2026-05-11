@@ -1,7 +1,7 @@
 <interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
   <interface>
     <name>GigabitEthernet1</name>
-    <description>NETCONF WORKS</description>
+    <description>DEPLOYED VIA NETCONF</description>
     <enabled>true</enabled>
   </interface>
 </interfaces>
