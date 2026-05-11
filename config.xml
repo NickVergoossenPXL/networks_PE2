@@ -1,4 +1,4 @@
-<interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+<interfaces xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
   <interface>
     <name>GigabitEthernet1</name>
     <description>DEPLOYED VIA NETCONF</description>
