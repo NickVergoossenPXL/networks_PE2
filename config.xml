@@ -1,7 +1,11 @@
-<native xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
-  <interface>
-    <name>0/0/1</name>
-    <description>DEPLOYED VIA NETCONF</description>
-    <enabled>true</enabled>
-  </interface>
-</native>
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
+  <native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native">
+    <interface>
+      <GigabitEthernet>
+        <name>0/0/0</name>
+        <description>Aangepast met Netconf</description>
+      </GigabitEthernet>
+    </interface>
+  </native>
+</config>
