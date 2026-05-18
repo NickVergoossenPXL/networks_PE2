@@ -4,7 +4,7 @@
     <interface>
       <GigabitEthernet>
         <name>0/0/0</name>
-        <description>Aangepast met Netconf</description>
+        <description>Pe2</description>
       </GigabitEthernet>
     </interface>
   </native>
